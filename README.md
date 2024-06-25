@@ -1,9 +1,6 @@
 # Open Transport
 
-<<<<<<< HEAD
-=======
 test vite fait
->>>>>>> release/0.0.2
 Application web pour covoiturage.
 
 ## Pour démarrer
@@ -59,15 +56,17 @@ Merci de lire les fichiers :
 ## Auteurs
 
 <<<<<<< HEAD
+
 - **Non spécifié**
 
 ## License
 
-Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
-=======
+# Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
 Pierre Gleize
 
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/LICENSE) pour plus de détails
->>>>>>> release/0.0.2
+
+> > > > > > > release/0.0.2
